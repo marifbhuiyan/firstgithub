@@ -3,3 +3,10 @@ function myfunc(){
 }
 
 myfunc()
+
+
+function func(){
+    console.log('this is the second commite')
+}
+
+func()
